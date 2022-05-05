@@ -2,4 +2,4 @@
 - 👀 I’m interested in CyberSecurity and Networking.
 - 🌱 I’m currently learning Computer Science at the University of Lille, France.
 - 📫 If you wanna reach me, just send me an email at hugo.vrbs@gmail.com
-- 🤖 [My TryHackMe Profile](https://tryhackme.com/p/QuetzalCoatl)  
+- 🤖 [My TryHackMe Profile](https://tryhackme.com/p/QuetzalCoatl), in case you're a CTF player too ;)
